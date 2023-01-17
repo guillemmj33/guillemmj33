@@ -97,3 +97,11 @@ const aboutMe = {
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillemmj33&theme=radical&card_width=450em)](https://github.com/guillemmj33/guillemmj33/github-readme-stats"/></td>
   </tr>
 </table>
+
+#### 🎧 I love music! | Spotify Playing
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
+
+<p align="center"> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />Visitors count<br>
+  <img src="https://profile-counter.glitch.me/belcar-ceci/count.svg" />
+</p>
