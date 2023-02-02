@@ -8,7 +8,7 @@
 ```javascript
 const aboutMe = {
   name: "Guillem Martínez",
-  role: "Junior FullStack Developer",
+  role: "UI Designer and Junior FullStack Developer",
   data: { 
       Linkedin: "www.linkedin.com/in/guillem-martinez-dev", 
       Resume: "https://github.com/guillemmj33",
